@@ -1,0 +1,1799 @@
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e'' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e'' : E →L[𝕜] F
+g'' f₀' f₁' g'' e'' : E 
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' : F'
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' : F'
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' : F'
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' f₀
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' f₀
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' f₀
+state before: 𝕜 : Type u_1
+inst✝⁴ : NontriviallyNormedField 𝕜
+E : Type u_2
+inst✝³ : NormedAddCommGroup E
+inst✝² : NormedSpace 𝕜 E
+F : Type u_3
+inst✝¹ : NormedAddCommGroup F
+inst✝ : NormedSpace 𝕜 F
+f f₀ f₁ g : 𝕜 → F
+f' f₀' f₁' g' e : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+f'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' f₀' f₁' g'' e' : E →L[𝕜] F
+g'' : F'' →L[𝕜] G
+g'' f₀
