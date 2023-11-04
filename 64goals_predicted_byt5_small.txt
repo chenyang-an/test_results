@@ -1,3 +1,4 @@
+NO.1 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -26,6 +27,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.2 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -54,6 +58,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.3 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -82,6 +89,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.4 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -110,6 +120,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.5 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -138,6 +151,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.6 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -166,6 +182,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.7 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -194,6 +213,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.8 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -222,6 +244,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.9 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -250,6 +275,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.10 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -278,6 +306,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.11 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -306,6 +337,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.12 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -334,6 +368,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.13 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -362,6 +399,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.14 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -390,6 +430,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.15 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -418,6 +461,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.16 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -446,6 +492,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.17 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -474,6 +523,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.18 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -502,6 +554,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.19 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -530,6 +585,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.20 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -558,6 +616,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.21 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -586,6 +647,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.22 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -614,6 +678,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.23 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -642,6 +709,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.24 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -670,6 +740,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.25 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -698,6 +771,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.26 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -726,6 +802,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.27 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -754,6 +833,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.28 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -782,6 +864,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.29 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -810,6 +895,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.30 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -838,6 +926,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.31 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -866,6 +957,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.32 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -894,6 +988,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.33 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -922,6 +1019,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.34 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -950,6 +1050,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.35 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -978,6 +1081,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.36 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1006,6 +1112,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.37 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1034,6 +1143,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.38 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1062,6 +1174,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.39 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1090,6 +1205,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.40 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1118,6 +1236,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.41 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1146,6 +1267,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L
+
+
+NO.42 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1174,6 +1298,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.43 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1202,6 +1329,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.44 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1230,6 +1360,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.45 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1258,6 +1391,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.46 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1286,6 +1422,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.47 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1314,6 +1453,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.48 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1342,6 +1484,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.49 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1370,6 +1515,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.50 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1398,6 +1546,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.51 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1426,6 +1577,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.52 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1454,6 +1608,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.53 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1482,6 +1639,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.54 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1510,6 +1670,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.55 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1538,6 +1701,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L
+
+
+NO.56 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1566,6 +1732,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e'' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →
+
+
+NO.57 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1594,6 +1763,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e'' : E →L[𝕜] F
 g'' f₀' f₁' g'' e'' : E 
+
+
+NO.58 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1623,6 +1795,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' : F'
+
+
+NO.59 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1652,6 +1827,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' : F'
+
+
+NO.60 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1681,6 +1859,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' : F'
+
+
+NO.61 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1710,6 +1891,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' f₀
+
+
+NO.62 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1739,6 +1923,9 @@ g'' f₀' f₁' g'' e' : E →L[𝕜] F
 f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' f₀
+
+
+NO.63 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1768,6 +1955,9 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' f₀
+
+
+NO.64 state_before_tactic predicted by byt5
 state before: 𝕜 : Type u_1
 inst✝⁴ : NontriviallyNormedField 𝕜
 E : Type u_2
@@ -1797,3 +1987,5 @@ f'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' f₀' f₁' g'' e' : E →L[𝕜] F
 g'' : F'' →L[𝕜] G
 g'' f₀
+
+
